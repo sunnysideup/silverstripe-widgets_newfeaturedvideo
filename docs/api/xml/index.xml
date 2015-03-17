@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/widgets_newfeaturedvideo/trunk">
+  <namespace name="">
+    <class name="FeaturedvideoWidget" src="FeaturedvideoWidget.php" xml="classes/FeaturedvideoWidget.xml"/>
+  </namespace>
+</index>
