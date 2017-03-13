@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API Docs](http://docs.ssmods.com/sunnysideup/widgets_newfeaturedvideo)
+ * [API](http://ssmods.com/apis/widgets_newfeaturedvideo/docs/en/api/)
 
 ## Requirements
 
